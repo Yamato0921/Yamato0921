@@ -3,7 +3,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hola 👋, soy Nishant</font></font></h1></summary>
+    <summary><h1 style="display: inline-block"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hola 👋, soy Sebastian</font></font></h1></summary>
   </ul>
 </div>
 <!--- snake -->
@@ -34,10 +34,7 @@
 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💬 Pregúntame sobre </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AWS, react, react-native, nodejs, mongoDB</font></font></strong></p>
 </li>
 <li>
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📫 No dudes en contactarme.</font></font><strong><a href="mailto:nishantjangid6377@gmail.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nishantjangid6377@gmail.com</font></font></a></strong></p>
-</li>
-<li>
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏠 También tenemos una comunidad tecnológica llamada</font></font><a href="https://discord.com/invite/p4TWyft886"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Desarrollador Hac</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></p>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📫 No dudes en contactarme.</font></font><strong><a href="mailto:sebastiangiraldocorpas@gmail.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sebastiangiraldocorpas@gmail.com</font></font></a></strong></p>
 </li>
 </ul>
 <!--Intro end-->
