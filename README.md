@@ -89,10 +89,10 @@
 </p>
 <!--profile visit count-->
 <div align="center">
-<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=1010nishant&amp;icon=3&amp;color=6" alt=""></a></p>
+<p><<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Yamato0921&label=Profile%20Views&icon=3&pretty=true" />
+</a></p>
 </div>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <hr>
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Crédito:</font></font><a href="https://github.com/1010nishant"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1010ishant</font></font></a></p>
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Última edición: 29/4/2023</font></font></p> 
