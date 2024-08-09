@@ -28,9 +28,6 @@
 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">☁️ Me interesa mucho la computación en la nube, por lo que estoy aprendiendo sobre </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AWS.</font></font></strong></p>
 </li>
 <li>
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📝 Escribo artículos regularmente sobre</font></font><a href="https://1010nishant.hashnode.dev/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nodo hash</font></font></a></p>
-</li>
-<li>
 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💬 Pregúntame sobre </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AWS, react, react-native, nodejs, mongoDB</font></font></strong></p>
 </li>
 <li>
