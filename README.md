@@ -90,7 +90,7 @@
 <!--profile visit count-->
 <div align="center">
 <p><<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Yamato0921&label=Profile%20Views&icon=3&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Yamato0921&label=Profile%20Views&icon=3&pretty=true"/>
 </a></p>
 </div>
 <!--horizontal divider(gradiant)-->
